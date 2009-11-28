@@ -1,1 +1,3 @@
-lorry
+Compile with:
+
+valac --pkg gtk+-2.0 --pkg webkit-1.0 --thread -o lorry lorry2.vala
